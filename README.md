@@ -1,9 +1,15 @@
-# Multi-Tilling-Image-Viewer
-A desktop image viewer designed for simultaneous viewing of multiple images in a dynamic tiled layout &amp; independent controls over each Image.
-The application adapts in real time to window size, display resolution, ensuring consistent visual behavior across HD and 4K systems.
+# Multi-Tilling Image Viewer (Muti)
+
+---
+
+## Overview
+
+A desktop image viewer designed for **simultaneous viewing of multiple images in a dynamic tiled layout** with independent controls over each Image.
+**The application adapts in real time to window size, display resolution**, ensuring consistent visual behavior across **HD** and **4K** systems.
 
 Built as a performance-conscious desktop UI project focused on layout correctness, responsiveness, and cross-environment stability.
 
+---
 
 ## Key Features
 
@@ -21,11 +27,15 @@ Built as a performance-conscious desktop UI project focused on layout correctnes
 
 - Designed for predictable behavior across Windows environments
 
+---
 
 # Engineering Highlights
+
+---
+
 ## Resolution-Adaptive Layout Engine
 
-Layout scaling is derived from the actual runtime environment rather than fixed design assumptions.
+**Layout scaling is derived from the actual runtime environment** rather than fixed design assumptions.
 This prevents visual drift across monitors, and window states.
 
 ## Container-Driven Scaling Model
@@ -57,9 +67,9 @@ This ensures consistency between normal and maximized window states.
 
 - Ensuring consistent rendering across HD and 4K displays
 
-## 
+---
 
-## System Requirements
+# System Requirements
 
 - Windows 10 or Windows 11 (Recomended)
 
@@ -67,17 +77,17 @@ This ensures consistency between normal and maximized window states.
 
 No development tools or JDK installation is required.
 
+---
+
 ## Java Runtime Installation
 
 To run the application, install a Java Runtime Environment.
 
-Recommended download:
-
-Java for Desktops (Windows x64)
+**Recommended download:** Java for Desktops (Windows x64)
 
 https://www.java.com/en/download/
 
-Download steps:
+**Download steps:**
 
 1. Open the website
 
@@ -94,7 +104,9 @@ Run executable
 
 2. Launch: Muti Image Viewer.exe
 
-## Technology Overview
+---
+
+# Technology Overview
 
 - Desktop UI built with Java
 
@@ -102,6 +114,7 @@ Run executable
 
 - Resolution-adaptive layout system
 
+---
 
 ## Project Purpose
 
@@ -116,18 +129,3 @@ Run executable
 - Structuring UI logic for predictability and maintainability
 
 - Handling platform-specific behavior in real-world conditions
-
-# Why This Project Matters
-
-Many desktop applications assume fixed display environments.
-Multi Image Viewer is designed to behave consistently across:
-
-- Different resolutions
-
-- Different DPI scaling settings
-
-- Different Windows versions
-
-- Dynamic window resizing
-
-This project reflects real-world desktop UI challenges rather than simplified examples.
