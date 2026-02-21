@@ -94,30 +94,16 @@ No development tools or JDK installation is required.
 
 ---
 
-## Java Runtime Installation
+# Installation
 
-To run the application, install a Java Runtime Environment.
+1. Download MUTI_Image_Viewer from **Releases**
+2. Unzip files
+3. Execute: MutiImageViewer_Setup
+   - Setup will create the necessery files in Program Files
+   - a Start Menu Shortcut
+   - and a Desktop Shortcut
 
-**Recommended download:** Java for Desktops (Windows x64)
-
-https://www.java.com/en/download/
-
-**Download steps:**
-
-1. Open the website
-
-2. Download Java for Desktops
-
-3. Install normally
-
-After installation, the application will run immediately.
-
-## Running the Application
-Run executable
-
-1. Install Java Runtime
-
-2. Launch: Muti Image Viewer.exe
+4. Launch: Muti Image Viewer
 
 ---
 
