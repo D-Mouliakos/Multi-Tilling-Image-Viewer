@@ -4,10 +4,17 @@
 
 ## Overview
 
-A desktop image viewer designed for **simultaneous viewing of multiple images in a dynamic tiled layout** with independent controls over each Image.
-**The application adapts in real time to window size, display resolution**, ensuring consistent visual behavior across **HD** and **4K** systems.
+Muti Image Viewer is a desktop application that allows users to load, arrange, and interact with multiple images simultaneously in a dynamically adaptive grid.
 
-Built as a performance-conscious desktop UI project focused on layout correctness, responsiveness, and cross-environment stability.
+Unlike standard viewers that display one image at a time, this system manages **multiple interactive image panels** with independent zoom behavior and responsive layout recalculation based on window size and column configuration.
+
+The project demonstrates practical software engineering in:
+
+- dynamic UI layout computation
+- stateful component management
+- scalable rendering strategies
+- interaction architecture
+- performance-aware image handling
 
 ---
 
