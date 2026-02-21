@@ -6,7 +6,7 @@
 
 Muti Image Viewer is a desktop application that allows users to load, arrange, and interact with multiple images simultaneously in a dynamically adaptive grid.
 
-Unlike standard viewers that display one image at a time, this system manages **multiple interactive image panels** with independent zoom behavior and responsive layout recalculation based on window size and column configuration.
+Unlike standard viewers that display one image at a time, this system manages **multiple interactive image panels** with independent zoom behavior and responsive layout recalculation based on screen resolution, window size and column configuration.
 
 The project demonstrates practical software engineering in:
 
