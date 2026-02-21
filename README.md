@@ -17,6 +17,14 @@ The project demonstrates practical software engineering in:
 - performance-aware image handling
 
 ---
+## Screenshots
+
+Viewer in normal window:  
+![Normal Window](Screenshots/Viewer_Normal.jpg)
+
+Viewer maximized with multiple images:  
+![Maximized Window](Screenshots/Viewer_Maximized.jpg)
+---
 
 ## Key Features
 
